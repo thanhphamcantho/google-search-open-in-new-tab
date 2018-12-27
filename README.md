@@ -2,7 +2,7 @@
 
 How many of you using Google search! lol, funny question right? Yes!
 
-As of 2018 Dec, 90% of internet users are using Google search around the world. 
+As of Nov 2018, According to The Wall Street Journal, Google handles 90% of the world's internet searches 
 
 And one more question, How many of you right-clicking the Google search result and click Open link in new tab or Mouse centre click or Ctrl + Mouse left-click to open the Google search result in the new tab. I guess most of us.
 
