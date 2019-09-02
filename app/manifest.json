@@ -1,24 +1,19 @@
 {
-    "name": "Google Search Open in New Tab",
-    "description": "Google Search Open in New Tab",
-    "version": "1.0.0",
-    "manifest_version": 2,
-    "icons": {
-        "48": "img/app-icon-48X48.png",
-        "96": "img/app-icon-96X96.png"
-    },
-    "content_scripts": [
-        {
-            "matches": [
-                "http://*/*",
-                "https://*/*"
-            ],
-            "js": [
-                "contentscript.js"
-            ]
-        }
-    ],
-    "permissions": [
-        "tabs"
-    ]
+  "name": "Google / Stack Overflow Open in New Tab",
+  "description": "Google Search / Stack Overflow Open in New Tab",
+  "version": "2.1.0",
+  "manifest_version": 2,
+  "icons": {
+    "16": "images/16.png",
+    "32": "images/32.png",
+    "48": "images/48.png",
+    "128": "images/128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["contentscript.js"]
+    }
+  ],
+  "permissions": ["tabs"]
 }
